@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hackathon_Tourism</string>
+    <string name="register1">Register</string>
+    <string name="not_rgister">Not Rgister</string>
+    <string name="usernameh">Username</string>
+    <string name="password">Password</string>
+</resources>
